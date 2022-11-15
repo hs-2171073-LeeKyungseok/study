@@ -28,7 +28,7 @@ https://github.com/apache/predictionio/blob/d9628ca2f148b45a51bf4cea68699a72f25c
 사용한 오픈소스: https://github.com/apache/predictionio
  
 5. 관련자료
-http://hacks.mozilla.or.kr/2014/04/introducing-predictionio/
+http://hacks.mozilla.or.kr/2014/04/introducing-predictionio/ <br>
 https://www.crunchbase.com/organization/prediction-io
 
 6. (추가적인 내용 - 메인 오픈소스와 관련X)
