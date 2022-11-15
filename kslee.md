@@ -27,7 +27,7 @@ https://github.com/apache/predictionio/blob/d9628ca2f148b45a51bf4cea68699a72f25c
  => 프리딕션IO를 통해 사용자로부터 받는 주문 정보를 수집하고 해당 데이터를 분석하여 인기있는 토핑들의 조합을 찾아내거나 단순 토핑을 추천해주고 이후에 어플을 통해 로그인을 하고 사용자로부터 정보를 받게 되었을 때 사용자의 기호에 따라 사용자에게 맞는 토핑을 추천해주는 기능을 제공한다. <br>
 사용한 오픈소스: https://github.com/apache/predictionio
  
-5. 관련자료
+5. 관련자료 <br>
 http://hacks.mozilla.or.kr/2014/04/introducing-predictionio/ <br>
 https://www.crunchbase.com/organization/prediction-io
 
