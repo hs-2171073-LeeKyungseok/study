@@ -6,15 +6,16 @@
 ![image](https://user-images.githubusercontent.com/115882994/201883356-5438698e-263c-4b18-aaa4-4dbaba99b65d.png)
 
 1. 사용 라이선스:  Apache 2 license
+
 2. 사용 오픈소스
    1) Apache Hadoop
    2) Apache Spark
    3) Elastic Search
    4) PredictionIO
-   ->Apache PredictionIO는 개발자, 데이터 과학자 및 최종 사용자를 위한 오픈 소스 기계 학습 프레임워크입니다. 이벤트 수집, 알고리즘 배포, 평가, REST API를 통한 예측 결과 쿼리를 지원      합니다. Hadoop, HBase(및 기타 DB), Elasticsearch, Spark와 같은 확장 가능한 오픈 소스 서비스를 기반으로 함.
+   ->Apache PredictionIO는 개발자, 데이터 과학자 및 최종 사용자를 위한 오픈 소스 기계 학습 프레임워크입니다. 이벤트 수집, 알고리즘 배포, 평가, REST API를 통한 예측 결과 쿼리를 지원합니다. Hadoop, HBase(및 기타 DB), Elasticsearch, Spark와 같은 확장 가능한 오픈 소스 서비스를 기반으로 함.
   
 3. 변경 사항
-LICENSE.txt
+LICENSE.txt <br>
 https://github.com/apache/predictionio/blob/d9628ca2f148b45a51bf4cea68699a72f25cb383/LICENSE.txt
 - 라이선스 정책에 의해 Elastic search가 더이상 apache 라이선스를 따르지 않게 됨에 따라 Elastic Search 오픈소스를 AWS의 OpenSearch 오픈소스로 교체하여 코드를 수정하여 사용을 하게 되었습니다. 이를 통해 자료 분석을 통한 조합을 수집하고 분석하는 부분에서 발생하는 문제를 수정하였습니다.(https://aws.amazon.com/ko/what-is/opensearch/)
 - ElasticSearch -> OpenSearch: OpenSearch는 AWS에서 ElasticSearch를 기반으로 Apache에서 만든 오픈소스입니다. ES에서 파생되어 같은 기능을 수행할 수 있음
@@ -26,7 +27,7 @@ https://github.com/apache/predictionio/blob/d9628ca2f148b45a51bf4cea68699a72f25c
  => 프리딕션IO를 통해 사용자로부터 받는 주문 정보를 수집하고 해당 데이터를 분석하여 인기있는 토핑들의 조합을 찾아내거나 단순 토핑을 추천해주고 이후에 어플을 통해 로그인을 하고 사용자로부터 정보를 받게 되었을 때 사용자의 기호에 따라 사용자에게 맞는 토핑을 추천해주는 기능을 제공한다. 
 사용한 오픈소스: https://github.com/apache/predictionio
  
-5.관련자료
+5. 관련자료
 http://hacks.mozilla.or.kr/2014/04/introducing-predictionio/
 https://www.crunchbase.com/organization/prediction-io
 
