@@ -17,7 +17,7 @@
 LICENSE.txt
 https://github.com/apache/predictionio/blob/d9628ca2f148b45a51bf4cea68699a72f25cb383/LICENSE.txt
 - 라이선스 정책에 의해 Elastic search가 더이상 apache 라이선스를 따르지 않게 됨에 따라 Elastic Search 오픈소스를 AWS의 OpenSearch 오픈소스로 교체하여 코드를 수정하여 사용을 하게 되었습니다. 이를 통해 자료 분석을 통한 조합을 수집하고 분석하는 부분에서 발생하는 문제를 수정하였습니다.(https://aws.amazon.com/ko/what-is/opensearch/)
-- # ElasticSearch -> OpenSearch: OpenSearch는 AWS에서 ElasticSearch를 기반으로 Apache에서 만든 오픈소스입니다. ES에서 파생되어 같은 기능을 수행할 수 있음
+- ElasticSearch -> OpenSearch: OpenSearch는 AWS에서 ElasticSearch를 기반으로 Apache에서 만든 오픈소스입니다. ES에서 파생되어 같은 기능을 수행할 수 있음
 
 4. 기능 부분
   1) 사람들이 주문을 하면서 추가하는 토핑에 대한 정보 저장
