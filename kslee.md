@@ -7,10 +7,10 @@
 
 1. 사용 라이선스:  Apache 2 license
 2. 사용 오픈소스
-   > Apache Hadoop
-   > Apache Spark
-   > Elastic Search
-   > PredictionIO
+   1) Apache Hadoop
+   2) Apache Spark
+   3) Elastic Search
+   4) PredictionIO
    ->Apache PredictionIO는 개발자, 데이터 과학자 및 최종 사용자를 위한 오픈 소스 기계 학습 프레임워크입니다. 이벤트 수집, 알고리즘 배포, 평가, REST API를 통한 예측 결과 쿼리를 지원      합니다. Hadoop, HBase(및 기타 DB), Elasticsearch, Spark와 같은 확장 가능한 오픈 소스 서비스를 기반으로 함.
   
 3. 변경 사항
