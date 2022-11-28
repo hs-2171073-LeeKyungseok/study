@@ -1,0 +1,46 @@
+# System Design Document
+
+## <무인 라면 가게>
+
+### Table of Contents
+List of Tables	7
+List of Figures	8
+1	Introduction	9
+1.1	Purpose of Document	9
+1.2	Document Scope	9
+1.2.1	In-Scope	9
+1.2.2	Out-of-Scope	9
+1.2.3	Assumptions	9
+1.3	Methodology, Tools, and Approach	9
+1.4	Acronyms and Abbreviations	9
+2	Design Overview	10
+2.1	Background Information	10
+2.2	System Evolution Description	10
+2.3	Required Environment	10
+2.4	Constraints	10
+2.5	Design Trade-offs	11
+3	Logical Architecture	11
+3.1	Hardware Architecture	11
+3.2	Application Architecture	11
+3.3	Communication Architecture	11
+4	Physical Architecture	11
+5	Data Model	12
+5.1	Database Management System Files	12
+5.2	Non-Database Management System Files	12
+6	Detailed Design	12
+6.1	Hardware Detailed Design	12
+6.2	Application Detailed Design	12
+6.3	Communication Detailed Design	12
+7	External Interface Design	12
+7.1	Interface Architecture	12
+7.2	Interface Detailed Design	12
+8	Graphical User Interface (GUI)	13
+8.1	Interface Design Rules	13
+8.2	Inputs	13
+8.3	Outputs	13
+8.4	Navigation Hierarchy	13
+8.4.1	Screen [x.1]	13
+8.4.2	Screen [x.2]	13
+9	System Integrity Controls	13
+Appendix	14
+
